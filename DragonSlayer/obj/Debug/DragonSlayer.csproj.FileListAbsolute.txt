@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\DragonSlayerV2.0\DragonSlayer\bin\Debug\DragonSlayer.exe.config
+C:\Users\Technologist SP\Documents\GitHub\DragonSlayerV2.0\DragonSlayer\obj\Debug\DragonSlayer.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\DragonSlayerV2.0\DragonSlayer\bin\Debug\DragonSlayer.exe
+C:\Users\Technologist SP\Documents\GitHub\DragonSlayerV2.0\DragonSlayer\bin\Debug\DragonSlayer.pdb
+C:\Users\Technologist SP\Documents\GitHub\DragonSlayerV2.0\DragonSlayer\obj\Debug\DragonSlayer.exe
+C:\Users\Technologist SP\Documents\GitHub\DragonSlayerV2.0\DragonSlayer\obj\Debug\DragonSlayer.pdb
